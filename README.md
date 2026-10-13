@@ -1,6 +1,6 @@
 ## OpenEnterpriseRiskManagementGuidance
 
-# Risk management for open-weight models
+# Risk Management for Open-Weight Models
 If you run open weights on your own infrastructure, the safeguards are yours to build. This repository holds the shared taxonomy, the evaluation index, and the templates that accompany the NVIDIA–Microsoft paper series — so you can start from a risk that matters in your deployment. 
 
 # Start Here
