@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Please cite the paper below when using this work."
+
+title: "OpenEnterpriseRiskManagementGuidance"
+authors:
+  - name: "Microsoft"
+  - name: "NVIDIA"
+
+url: "https://github.com/NVIDIA/OpenERMGuidance"
+
+preferred-citation:
+  type: report
+  title: "Risk Management for Open-Weight Models in Enterprise"
+
+  authors:
+    - name: "Microsoft"
+    - name: "NVIDIA"
+
+  editors:
+    - family-names: "Berkley"
+      given-names: "Andrew"
+      affiliation: "Microsoft"
+
+    - family-names: "Chen"
+      given-names: "April"
+      affiliation: "Microsoft"
+
+    - family-names: "Boone"
+      given-names: "Michael"
+      affiliation: "NVIDIA"
+
+    - family-names: "Long"
+      given-names: "Eileen"
+      affiliation: "NVIDIA"
+
+    - family-names: "Rao"
+      given-names: "Arun"
+      affiliation: "NVIDIA"
+
+  year: 2026
+  month: 10
+  url: "https://github.com/NVIDIA/OpenERMGuidance"
