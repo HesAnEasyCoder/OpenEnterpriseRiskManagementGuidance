@@ -29,6 +29,8 @@ Microsoft and NVIDIA. *Risk Management for Open-Weight Models in Enterprise.* Ed
 ### Papers
 Guidance papers to support risk management and governance of open-weight model deployments.
 
+Note: Some embedded links may not be active in GitHub's PDF preview. Download the PDF for full functionality.
+
 ### Taxonomy
 The risk taxonomy provides a shared vocabulary for how risks arise in AI systems, grouping risk types (L2) under broader risk categories (L1) to support effective management. It will be updated regularly as new risks emerge.
 
