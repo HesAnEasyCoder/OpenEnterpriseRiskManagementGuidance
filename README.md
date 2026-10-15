@@ -5,6 +5,27 @@ Open-weight models give enterprises greater control to inspect, evaluate, modify
 
 This joint NVIDIA–Microsoft repository offers resources to help enterprises deploy open-weight models safely, securely, and responsibly. The repository is organized as follows.
 
+### Citing this work
+
+Microsoft and NVIDIA. *Risk Management for Open-Weight Models in Enterprise.* Edited by Andrew Berkley, April Chen, Michael Boone, Eileen Long, and Arun Rao. October 2026. https://github.com/NVIDIA/OpenERMGuidance
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@techreport{msft_nvidia_2026_openweight,
+  author = {{Microsoft} and {NVIDIA}},
+  editor = {Berkley, Andrew and Chen, April and Boone, Michael and Long, Eileen and Rao, Arun},
+  title = {Risk Management for Open-Weight Models in Enterprise},
+  institution = {Microsoft and NVIDIA},
+  year = {2026},
+  month = oct,
+  url = {https://github.com/NVIDIA/OpenERMGuidance}
+}
+```
+
+</details>
+
 ### Papers
 Guidance papers to support risk management and governance of open-weight model deployments.
 
